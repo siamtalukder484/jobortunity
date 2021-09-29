@@ -1,0 +1,39 @@
+html{
+    scroll-behavior: unset!important;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ol, ul {
+    padding-left: 0;
+}
+a{
+    text-decoration: none;
+}
+ul,ol,li{
+    list-style-type: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+    line-height: 0.8;
+    margin-bottom: 0;
+}
+dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+/* ==================Navbar Part Start Here==================== */
+
+/* ==================Navbar Part Start Here==================== */
+/* ==================Navbar Part Start Here==================== */
+/* ==================Navbar Part Start Here==================== */
+/* ==================Navbar Part Start Here==================== */
+/* ==================Navbar Part Start Here==================== */
+/* ==================Navbar Part Start Here==================== */
+/* ==================Navbar Part Start Here==================== */
+/* ==================Navbar Part Start Here==================== */
+/* ==================Navbar Part Start Here==================== */
+/* ==================Navbar Part Start Here==================== */
+/* ==================Navbar Part Start Here==================== */
+/* ==================Navbar Part Start Here==================== */
